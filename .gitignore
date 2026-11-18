@@ -1,0 +1,11 @@
+.DS_Store
+.venv/
+__pycache__/
+*.pyc
+.env
+browser_profile/
+data/
+output/
+CLIENT_REPLY.md
+LOOM_SCRIPT.md
+
